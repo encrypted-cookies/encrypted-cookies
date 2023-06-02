@@ -27,6 +27,7 @@
 <p align="left">
 
 <a href="https://instagram.com/jibril_masir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jibril_masir" height="30" width="40" /></a>
+[![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/233596371001
 
 <a href="https://www.youtube.com/c/s_kills" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="s_kills" height="30" width="40" /></a>
 
