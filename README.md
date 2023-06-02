@@ -27,8 +27,10 @@
 - 🌀 Fun fact: We Marsians are funny.
 
  <h3 align="left">My Projects:</h3>
-<p align="left">
--.[kai Bot].(https://github.com/encrypted-cookies/Kai-Bot)
+<p align="left" href="https://github.com/encrypted-cookies/Kai-Bot">
+kai Bot
+ </p>
+ 
  
 # 📫 How to reach me:
 [![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2349031254430)  <h3 align="left">Connect with me:</h3>
@@ -50,11 +52,7 @@
 
 </p>
  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=encrypted-cookies" alt="encrypted-cookies" /></a> </p> 
-
-<h3 align="left">- 📫 Connect with me:</h3>
-
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=encrypted-cookies" alt="encrypted-cookies" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -63,10 +61,11 @@
 <h3 align="left">Support:</h3>
 
 <p><a href="https://www.buymeacoffee.com/https://wa.me/2349031254430"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://wa.me/2349031254430" /></a></p><br><br>
-
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=encrypted-cookies&show_icons=true&locale=en&layout=compact" alt="encrypted-cookies" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=encrypted-cookies&show_icons=true&locale=en" alt="encrypted-cookies" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=encrypted-cookies&" alt="encrypted-cookies" /></p>
 
+ 
