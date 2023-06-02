@@ -1,11 +1,8 @@
 <!--
 **encrypted-cookies/encrypted-cookies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-![](https://github.com/encrypted-cookies/encrypted-cookies/blob/main/Github%20banner.png)
-
-<div align="center">
-
-    <img src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Hello...!!;I+Am+Kai...!!;Nice+to+meet+you...!!" alt="Typing 
-    </a>
+![](https://github.com/encrypted-cookies/encrypted-cookies/blob/main/Github%20banner.webp)
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38C2FF&width=435&lines=Hello+friend+%F0%9F%91%8B...;I+am+Max+Ni9e...!!!;Nice+to+meet+you%F0%9F%98%87" alt="Typing SVG" /></a> 
 </p>
 
 </div>
