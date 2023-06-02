@@ -1,10 +1,8 @@
-### Hi there 👋
-
 <!--
 **encrypted-cookies/encrypted-cookies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<h1 align="center">Hi 👋, I'm Max Ni9e</h1>
+<h1 align="left">Hi 👋, I'm Max Ni9e</h1>
 
-<h3 align="center">Just an average guy from MARS [scoffs*]</h3>
+<h3 align="left">Just an average guy from MARS [*scoffs*]</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=encrypted-cookies&label=Profile%20views&color=0e75b6&style=flat" alt="encrypted-cookies" /> </p>
 
@@ -12,15 +10,17 @@
 
 - 🔭 I’m currently working on [A Whatsapp User Bot](https://github.com/encrypted-cookies/Kai-Bot)
 
-- 🤝 I’m looking to collaborate on a chat app development [[I'm interested]](https://wa.me/234903125430)
+- 🤝 I’m looking to collaborate on a chat app development [I'm interested](https://wa.me/234903125430)
 
 - 👨‍💻 All of my projects are available at [https://github.com/encrypted-cookies](https://github.com/encrypted-cookies)
 
 - 💬 Ask me about **Anything**
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact: **I think I am funny**
 <!-- theives will steal -->
 <h3 align="left">- 📫 Connect with me:</h3>
+ 📫 How to reach me:
 
+[![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2349031254430)
 <p align="left">
 
 </p>
