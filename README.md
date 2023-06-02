@@ -10,18 +10,41 @@
 <h3 align="left">Just an average guy from MARS [*scoffs*]</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=encrypted-cookies&label=Profile%20views&color=0e75b6&style=flat" alt="encrypted-cookies" /> </p>
+<h3 align="left">More:</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=encrypted-cookies" alt="encrypted-cookies" /></a> </p>
+<p align="left">
 
-- 🔭 I’m currently working on [A Whatsapp User Bot](https://github.com/encrypted-cookies/Kai-Bot)
+- 🙇 I am a passionate **self learner**
 
-- 🤝 I’m looking to collaborate on a chat app development [I'm interested](https://wa.me/234903125430)
+- 👩‍🏫 Currently learning **coding** 
 
-- 👨‍💻 All of my projects are available at [https://github.com/encrypted-cookies](https://github.com/encrypted-cookies)
+- ⚡ Active
 
-- 💬 Ask me about **Anything**
-- ⚡ Fun fact: **I think I am funny**
-<!-- theives will steal -->
+- ✨ Very curious and wants to learn **WhatsApp Bots** creation.
+ 
+ - 💬 Ask me about **Anything**
+
+- 🌀 Fun fact: We Marsians are funny.
+
+ <
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=encrypted-cookies" alt="encrypted-cookies" /></a> </p> 
+
 <h3 align="left">- 📫 Connect with me:</h3>
  📫 How to reach me:
 
