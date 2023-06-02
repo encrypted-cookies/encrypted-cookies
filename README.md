@@ -20,7 +20,7 @@
 
 - ⚡ Active
 
-- ✨ Very curious and wants to learn **WhatsApp Bots** creation.
+- ✨ Very curious and wants to learn about **WhatsApp Bot** creation.
  
  - 💬 Ask me about **Anything**
 
@@ -28,7 +28,7 @@
 
  <h3 align="left">My Projects:</h3>
 <p align="left">
- - [kai Bot](https://github.com/encrypted-cookies/Kai-Bot)
+-.[kai Bot].(https://github.com/encrypted-cookies/Kai-Bot)
  
 # 📫 How to reach me:
 [![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2349031254430)  <h3 align="left">Connect with me:</h3>
