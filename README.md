@@ -42,7 +42,7 @@ kai Bot</a>
 <a href="https://www.youtube.com/c/s_kills" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="linux soul" height="30" width="40" /></a>
 
 </p>
- <h2 align="left"> Running and improvig myself day by day...
+ <h2 align="left"> Improving myself day by day...
 
 </h2>
 
