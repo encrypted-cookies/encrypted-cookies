@@ -1,6 +1,6 @@
 <!--
 **encrypted-cookies/encrypted-cookies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<div align="center">
+![](https://github.com/encrypted-cookies/encrypted-cookies/blob/main/Github%20banner.webp)<div align="center">
 
     <img
 
